@@ -1,0 +1,7 @@
+/target
+polymarket.db
+*.db
+*.png
+__pycache__/
+.DS_Store
+*.log
